@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Timestamp Microservice - pass in a date and get two forms returned",
   "main": "server.js",
-  "repository": "",
+  "repository": "https://github.com/kastentx/timestamp-microservice",
   "author": "Nick Kasten <kastencode@gmail.com>",
   "dependencies": {
     "express": "~3.2.4",
